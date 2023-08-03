@@ -1,6 +1,7 @@
 import Header from './../components/header/Header';
 
 const Home = () => {
+    console.log("Home")
     return ( 
         <div>
         <Header />
